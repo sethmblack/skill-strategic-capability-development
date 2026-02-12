@@ -1,11 +1,10 @@
 ---
 name: strategic-capability-development
-description: Identify and plan development of strategic capabilities requiring sustained
-  organizational investment using Hamilton's industrial policy principles.
+description: Identify and plan development of strategic capabilities requiring sustained organizational investment using Hamilton's industrial policy principles.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - strategic-capability-development
 - writing
