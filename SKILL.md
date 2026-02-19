@@ -4,7 +4,8 @@ description: Identify and plan development of strategic capabilities requiring s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5068
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-capability-development
 - writing
